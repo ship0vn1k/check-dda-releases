@@ -1,0 +1,1 @@
+Check DDA Android releases. This repository contains only signed APK releases and release notes. Application source code and customer data are not published here.
